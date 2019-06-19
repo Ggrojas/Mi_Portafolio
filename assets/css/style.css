@@ -1,0 +1,42 @@
+body {
+  font-family: 'Cabin', sans-serif;
+}
+header{
+  color: #dc3545;
+  background-image: url('../img/bg_hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: right;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 6.25rem 3.125rem;
+  margin-top: 5%;
+  background-position: center;
+}
+
+header h4{
+  text-align: center;
+  padding: 0;
+  padding-bottom: 2px;
+  color: red;
+}
+
+header h5{
+  text-align: center;
+  padding: 0;
+  padding-bottom: 2px;
+  color: red;
+}
+
+#sobre_mi{
+  margin-top: 10%;
+}
+
+
+.lobster {
+  font-family: 'Lobster', cursive;
+}
+
+#trabajos{
+  text-align: center;
+  background-color: purple;
+}
