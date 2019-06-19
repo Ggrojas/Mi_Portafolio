@@ -40,3 +40,15 @@ header h5{
   text-align: center;
   background-color: purple;
 }
+
+#trabajos h2{
+  color: white;
+}
+
+#experiencia{
+  text-align: center;
+  background-color: white;
+}
+#experiencia h2{
+  color: gray;
+}
