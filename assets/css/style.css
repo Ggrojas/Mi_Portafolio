@@ -25,18 +25,14 @@ header h4{
 }
 
 header h5{
-  text-align: center;
-  padding: 0;
+  border-top: 3px solid white;
+  padding-top: 2px;
+  margin-left: 45%;
   color: white;
+  width: 10%;
+  justify-content: center;
+  text-align: center;
 }
-
-
-header p{
-  margin: 2px;
-  padding: 2px;
-  background-color: black;
-}
-
 
 #sobre_mi{
   margin-top: 10%;
